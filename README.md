@@ -358,6 +358,9 @@ This project is provided as-is for educational and demonstration purposes.
 
 **Created by**: Harish Ramesh  
 **Repository**: [GitHub - Harish-Ramesh-1/electroHub](https://github.com/Harish-Ramesh-1/electroHub)  
+**Instagram**: [@electrohub613](https://www.instagram.com/electrohub613/)  
+**Facebook**: [ElectroHub](https://www.facebook.com/profile.php?id=61583473838495)  
+**Twitter/X**: [@hub_electr62316](https://x.com/hub_electr62316)  
 **Date**: November 2025
 
 ---
